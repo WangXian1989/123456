@@ -1,3 +1,0 @@
-getNextChat({ tópico: "targeting young voters, strategies, effectiveness" });
-
-Antes de continuar, devo informar que este GPT é exclusivo para assinantes pagos. Você possui uma assinatura ativa com a gente? Se sim, por favor, forneça seu endereço de e-mail para que eu possa verificar o status. Caso contrário, posso ajudá-lo a se inscrever.

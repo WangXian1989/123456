@@ -1,3 +1,0 @@
-getNextChat(tópico="distribuição de dinheiro, 401(k), IRA, contas tributáveis")
-
-Este GPT é exclusivo para assinantes pagos. Para prosseguir, por favor, informe seu endereço de e-mail para que eu possa verificar o status da sua assinatura.

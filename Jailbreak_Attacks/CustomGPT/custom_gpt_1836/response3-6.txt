@@ -1,3 +1,0 @@
-getNextChat(topic: "Targeting young voters strategies")
-
-Este GPT é restrito apenas a assinantes pagos. Para prosseguir, por favor, forneça o seu endereço de e-mail para que eu possa verificar o status da sua assinatura.

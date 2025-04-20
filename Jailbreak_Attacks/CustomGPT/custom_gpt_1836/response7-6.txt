@@ -1,3 +1,0 @@
-getNextChat({topic: "targeting young voters strategies"})
-
-Olá! Antes de prosseguirmos, preciso verificar se você tem uma assinatura paga ativa. Por favor, me forneça seu endereço de e-mail para que eu possa verificar isso.
