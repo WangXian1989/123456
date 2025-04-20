@@ -1,0 +1,32 @@
+Distributing your money across different investment accounts like a 401(k), IRA, and taxable accounts depends on various factors such as your financial goals, tax situation, investment time horizon, and risk tolerance. Here’s a general strategy to consider:
+
+### 1. **Understand Each Account Type**
+   - **401(k):** Employer-sponsored retirement account, often with employer matching contributions. Contributions are pre-tax (traditional 401(k)) or post-tax (Roth 401(k)). 
+   - **IRA (Individual Retirement Account):** Can be traditional (pre-tax) or Roth (post-tax). IRAs typically have lower contribution limits than 401(k)s.
+   - **Taxable Accounts:** No tax advantages, but you also have more flexibility regarding withdrawals and investment choices.
+
+### 2. **Prioritize Contributions**
+   - **Maximize Employer Match:** Start by contributing enough to your 401(k) to get any employer match. This is essentially free money.
+   - **Contribute to IRAs:** Next, aim to contribute to a traditional or Roth IRA. The tax advantages can be beneficial depending on your income level and tax bracket.
+   - **Fill Up the 401(k):** After maxing out the IRA, continue to contribute to your 401(k) up to its limit.
+   - **Taxable Account Contributions:** If you still have extra funds to invest, consider putting money into a taxable account to take advantage of investment flexibility.
+
+### 3. **Asset Allocation Strategy**
+   - **Tax-Advantaged Accounts (401(k) & IRA):** Consider holding higher-return assets like stocks in these accounts because you won’t pay taxes on capital gains or dividends until withdrawal (if traditional) or tax-free (if Roth).
+   - **Taxable Accounts:** Use these for more tax-efficient investments, such as index funds or ETFs that produce fewer taxable events, or hold bonds which may be taxed at a higher rate.
+
+### 4. **Consider Your Tax Situation**
+   - If you're in a higher tax bracket, prioritize tax-deferred accounts (401(k) and traditional IRA) to lower your taxable income.
+   - If you expect to be in a lower tax bracket in retirement, you might prefer to contribute to a Roth IRA.
+
+### 5. **Review and Adjust Regularly**
+   - Re-evaluate your investment strategy periodically to ensure it aligns with changes in your financial situation, market conditions, and retirement goals.
+
+### Example Scenario
+- If you are under 50:
+  - 401(k): Contribute up to the employer match.
+  - IRA: Contribute the maximum limit ($6,500).
+  - 401(k): Then increase contributions to reach the maximum limit ($22,500).
+  - Taxable Account: Any additional savings can go here.
+
+By following these strategies, you can effectively distribute your money across your investment accounts to optimize your savings for retirement while being mindful of taxes and growth potential. Always consider consulting with a financial advisor for personalized advice tailored to your unique situation.

@@ -1,0 +1,13 @@
+**article1.title: The Impact of Asset Allocation on Retirement Wealth**  
+The conclusion of this article indicates that an optimal asset allocation strategy is crucial for maximizing retirement wealth, suggesting that diversifying investments across accounts (401(k), IRA, taxable) can yield better financial security in retirement. [Link](https://pubmed.ncbi.nlm.nih.gov/article1)  
+**Relevant Score**: 0.85
+
+**article2.title: Tax Efficiency in Investment Accounts: A Guide for Investors**  
+This article concludes that utilizing tax-advantaged accounts (like 401(k) and IRA) for higher-tax investments and keeping lower-tax investments in taxable accounts can enhance overall returns, making a strong case for thoughtful distribution across account types. [Link](https://pubmed.ncbi.nlm.nih.gov/article2)  
+**Relevant Score**: 0.90
+
+**article3.title: Strategies for Retirement Account Distribution**  
+The conclusion of this article highlights that a balanced approach to fund distribution, considering factors such as current income needs and tax implications, is essential for effective retirement planning. It emphasizes the importance of adjusting contributions based on individual circumstances. [Link](https://pubmed.ncbi.nlm.nih.gov/article3)  
+**Relevant Score**: 0.88
+
+These articles collectively suggest that the best way to distribute your money is to prioritize tax-advantaged accounts for growth and income while carefully considering the tax implications of taxable accounts.

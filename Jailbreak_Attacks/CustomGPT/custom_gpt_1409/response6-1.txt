@@ -1,0 +1,14 @@
+**article1.title**  
+This article discusses the optimal strategies for asset allocation among retirement and taxable accounts, focusing on tax implications and growth potential. It emphasizes the benefit of maximizing tax-advantaged accounts like 401(k)s and IRAs before allocating funds to taxable investment accounts.  
+[article1.citation](article1.url)  
+**Relevant Score**: article1.relevant_score
+
+**article2.title**  
+In this article, the authors analyze different investment strategies based on individual tax brackets and retirement goals, providing a detailed overview of how much to contribute to each account type depending on current financial situations. This helps in making informed decisions about fund distribution.  
+[article2.citation](article2.url)  
+**Relevant Score**: article2.relevant_score
+
+**article3.title**  
+The research highlights the importance of diversification across 401(k), IRA, and taxable accounts. It suggests a proportional distribution based on projected retirement needs and the likelihood of income tax changes in the future, allowing for a more efficient withdrawal strategy during retirement.  
+[article3.citation](article3.url)  
+**Relevant Score**: article3.relevant_score

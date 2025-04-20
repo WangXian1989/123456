@@ -1,0 +1,42 @@
+Distributing your money among a 401(k), IRA, and taxable accounts requires careful consideration of various factors, including your financial goals, tax situation, and investment timeline. Here’s a structured approach:
+
+### 1. **Understand Account Types**
+   - **401(k)**: Employer-sponsored plan, often includes a match; contributions are pre-tax (traditional) or post-tax (Roth).
+   - **IRA (Individual Retirement Account)**: Can be traditional (pre-tax) or Roth (post-tax); offers tax advantages for retirement savings.
+   - **Taxable Accounts**: Investments that are subject to capital gains tax; no contribution limits or withdrawal restrictions.
+
+### 2. **Assess Goals and Time Horizon**
+   - **Short-Term Goals (0-5 years)**: Consider keeping funds in taxable accounts for liquidity and potential tax advantages (e.g., lower capital gains rates).
+   - **Mid to Long-Term Goals (5+ years)**: Focus on tax-advantaged accounts like 401(k) and IRAs for growth and tax deferral.
+
+### 3. **Evaluate Tax Implications**
+   - Maximize contributions to tax-deferred accounts first (401(k), traditional IRA) to reduce taxable income.
+   - Use Roth accounts if you expect to be in a higher tax bracket in retirement; tax-free withdrawals can be beneficial.
+
+### 4. **Consider Employer Match**
+   - If your employer offers a 401(k) match, contribute enough to get the full match before allocating funds to other accounts. This is essentially free money.
+
+### 5. **Diversification Strategy**
+   - Diversify investments across all accounts based on risk tolerance and investment strategy.
+   - Use your taxable account for investments with favorable tax treatment (e.g., index funds, ETFs) to minimize taxes.
+
+### 6. **Regular Rebalancing**
+   - Periodically review and adjust your allocation to ensure alignment with financial goals and changing market conditions.
+
+### 7. **Professional Guidance**
+   - Consider consulting with a financial advisor to tailor a distribution strategy that fits your individual circumstances.
+
+### Example Distribution Strategy
+1. **Maximize 401(k)** Contributions: Contribute enough to get the full employer match.
+2. **Fund IRA**: Contribute to a traditional or Roth IRA based on expected future tax brackets.
+3. **Allocate Excess Funds**: Invest any additional savings in a taxable account to maintain flexibility.
+
+This approach balances tax advantages with access to funds as needed, aligning with both short- and long-term financial goals.
+
+---
+
+### Quick Actions
+- 🅺 List all commands
+- 🅰 Generate alternative text
+- 🅳 Double check your plan
+- 🅴 Export to docx

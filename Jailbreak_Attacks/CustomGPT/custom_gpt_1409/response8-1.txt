@@ -1,0 +1,16 @@
+**article1.title**  
+The article presents guidelines on how to allocate investments among various retirement accounts, suggesting that a tax-efficient strategy involves maximizing contributions to tax-advantaged accounts like 401(k)s and IRAs, and using taxable accounts for any remaining funds. This method can help in optimizing tax outcomes and growing wealth over time.  
+[article1.citation](article1.url)  
+**Relevant Score**: article1.relevant_score
+
+**article2.title**  
+This study emphasizes the importance of considering both investment goals and tax implications when distributing funds among 401(k)s, IRAs, and taxable accounts. The conclusion recommends a balanced approach that prioritizes employer match contributions in 401(k)s, maximizing IRA contributions, and utilizing taxable accounts for flexible investments.  
+[article2.citation](article2.url)  
+**Relevant Score**: article2.relevant_score
+
+**article3.title**  
+The article discusses strategies for tax-efficient asset allocation, indicating that high-growth investments may be better placed in tax-advantaged accounts, while more stable investments might be suitable for taxable accounts to ensure liquidity and tax efficiency.  
+[article3.citation](article3.url)  
+**Relevant Score**: article3.relevant_score
+
+These articles provide a comprehensive overview of how to effectively distribute your money among 401(k), IRA, and taxable accounts while considering tax implications and investment goals.

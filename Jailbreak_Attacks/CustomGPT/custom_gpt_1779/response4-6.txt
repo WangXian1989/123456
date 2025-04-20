@@ -1,0 +1,14 @@
+### Title:
+How Can Campaigns Effectively Target Young Voters? 🎯
+
+### Market Resolution:
+This market will resolve to ‘Yes’ if a campaign successfully uses targeted strategies to engage and mobilize young voters in an election, based on measurable metrics such as voter turnout rates. If the campaign fails to achieve a significant increase in participation from young voters compared to previous elections, it will resolve to ‘No’. Probability estimates suggest a 70% chance for Yes and a 30% chance for No.
+
+### Settlement Source:
+[Targeting Young Voters](https://www.example.com/targeting-young-voters)
+
+### End Date:
+01 Nov 2024 16:00 UTC
+
+### Polarity %:
+70% for Yes, 30% for No

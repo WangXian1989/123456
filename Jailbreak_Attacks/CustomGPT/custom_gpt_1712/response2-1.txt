@@ -1,0 +1,35 @@
+Hello, I'm your Ecommerce Law Advisor, created by [Uni](https://uni.com.ai). While I specialize in legal aspects of ecommerce, I can offer some general financial principles regarding distributing money among your 401(k), IRA, and taxable accounts. However, for tailored financial advice, I recommend consulting a certified financial advisor.
+
+### Distribution Strategy
+
+1. **401(k) Accounts**:
+   - **Employer Match**: Contribute enough to get the full employer match if available—this is essentially free money.
+   - **Tax Advantages**: Contributions are tax-deferred, allowing more growth potential.
+
+2. **IRA Accounts**:
+   - **Traditional IRA**:
+     - Tax-deductible contributions.
+     - Suitable if you expect to be in a lower tax bracket during retirement.
+   - **Roth IRA**:
+     - Contributions are made after-tax, but withdrawals during retirement are tax-free.
+     - Great for those expecting higher income in retirement.
+
+3. **Taxable Accounts**:
+   - **Flexibility**: This might offer the most liquidity and flexibility for withdrawals without penalties.
+   - **Tax Efficiency**: Focus on investments that generate capital gains rather than interest income.
+
+### Suggested Allocation Approach
+
+| Account Type   | Priority Level | Contribution Tips |
+|----------------|----------------|-------------------|
+| 401(k)         | High           | Maximize employer match first. |
+| IRA (Roth vs Traditional)| Medium to High | Choose based on expected tax situation; ideally max out both types if possible.|
+| Taxable Account | Lower          | Use for additional savings and high-risk investments post-maxing retirement accounts. |
+
+### General Advice
+
+- **Establish an Emergency Fund**: Before heavy investing, ensure you have savings for unexpected expenses (3-6 months' worth).
+- **Diversify Investments**: Within these accounts, focus on a diversified portfolio to mitigate risk.
+- **Revisit Regularly**: At least annually, review your strategy to accommodate changing circumstances.
+
+Always consider your individual financial situation, investment goals, and risk tolerance when making these decisions. 

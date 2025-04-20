@@ -1,0 +1,30 @@
+To effectively distribute your money among your 401(k), IRA, and taxable accounts, consider the following strategies:
+
+### 1. **Prioritize Contributions:**
+   - **401(k):** If your employer offers a match, contribute enough to get the full match—this is essentially free money.
+   - **IRA:** Max out your contributions to a Traditional or Roth IRA, as they offer tax advantages.
+   - **Taxable Accounts:** Invest additional funds here for flexibility, as these accounts have fewer tax benefits but no contribution limits.
+
+### 2. **Tax Considerations:**
+   - **401(k):** Contributions are pre-tax, lowering your taxable income now; taxes are paid on withdrawals in retirement.
+   - **IRA (Traditional vs. Roth):** Choose based on your current vs. expected future tax rates. Roth is funded with after-tax dollars, while Traditional offers a tax deduction.
+   - **Taxable Accounts:** Be mindful of capital gains taxes. Favor tax-efficient investments, like index funds or ETFs.
+
+### 3. **Investment Allocation:**
+   - Use tax-advantaged accounts (401(k) and IRA) for higher-growth investments (like stocks) since taxes are deferred.
+   - Consider placing more conservative assets (like bonds) in taxable accounts to minimize taxes on interest income.
+
+### 4. **Age and Risk Tolerance:**
+   - Younger investors might favor aggressive growth strategies in retirement accounts.
+   - As you approach retirement, shift towards more conservative investments to preserve capital.
+
+### Example Allocation Strategy:
+| Account Type      | Contribution Priority | Typical Investments     |
+|-------------------|-----------------------|-------------------------|
+| 401(k)            | High (to match)       | Stocks, target-date funds|
+| IRA                | Medium (tax benefits) | Stocks or bonds         |
+| Taxable Accounts   | Low (flexible access) | Index funds, ETFs, cash |
+
+Regularly reassess your investments based on changes in goals, market conditions, or tax laws.
+
+Would you like to explore specific investment options or strategies for any of these accounts?

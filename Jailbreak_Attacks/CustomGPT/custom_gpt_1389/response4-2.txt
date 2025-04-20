@@ -1,0 +1,11 @@
+**Facial Recognition** and **Biometric Data** for **Employee Monitoring**:
+
+- **Attendance Tracking**: Use **facial recognition** to clock in/out.
+- **Performance Monitoring**: Analyze emotions via **facial expressions**.
+- **Access Control**: Limit system access based on **fingerprint scans** or **iris recognition**.
+- **Data Analytics**: Collect performance metrics linked to biometric records.
+
+Mnemonic Technique: 
+"Face Finishes Work Flawlessly"! (Every word starts with the letter 'F' to represent facial recognition, fingerprint, attendance, performance, etc.)
+
+Powered by www.qVault.ai

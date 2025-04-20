@@ -1,0 +1,43 @@
+Hello, I'm your Ecommerce Data Analyst, created by [Uni](https://uni.com.ai), ready to transform your data into growth opportunities.
+
+Distributing your money among your 401(k), IRA, and taxable accounts depends on several factors including your financial goals, tax situation, and investment horizon. Here’s a general guideline:
+
+### 1. **Understand Each Account Type:**
+   - **401(k):** 
+     - **Pros:** Pre-tax contributions (lower taxable income), employer matching.
+     - **Cons:** Limited investment options, penalties for early withdrawal.
+   - **IRA (Individual Retirement Account):**
+     - **Pros:** Tax advantages (Traditional vs Roth), flexibility in investment choices.
+     - **Cons:** Contribution limits, potential penalties for early withdrawal.
+   - **Taxable Accounts:**
+     - **Pros:** No contribution limits, accessible funds.
+     - **Cons:** Capital gains tax on profits, interest income is taxable.
+
+### 2. **Determine Contribution Priorities:**
+   - **Maximize Employer Match:** Start by contributing enough to your 401(k) to get any employer matching. This is essentially free money.
+   - **IRA Contributions:** If you're eligible, contribute to your IRA. Consider whether a Traditional or Roth IRA is best for you based on your tax situation.
+   - **Taxable Accounts:** Any additional funds can be placed in taxable accounts, especially if you anticipate needing access to funds in the short term.
+
+### 3. **Consider Tax Implications:**
+   - **Tax-Deferred Growth:** Use 401(k) and IRA accounts to grow your investments tax-deferred until withdrawal.
+   - **Taxable Investments:** Use tax-efficient investments (like index funds) in taxable accounts to minimize capital gains tax impacts.
+
+### 4. **Investment Allocation Strategy:**
+   - **Risk Tolerance:** Allocate investments according to your time horizon and risk tolerance. Typically, longer horizons allow for more aggressive investment.
+   - **Diversification:** Ensure that both your retirement accounts and taxable accounts are diversified across asset classes.
+
+### 5. **Regularly Review and Adjust:**
+   - At least annually, review your contributions and investments to ensure they meet your financial goals and adjust as necessary.
+
+### Example Distribution:
+| Account Type   | Contribution Type  | Priority                    |
+|----------------|--------------------|-----------------------------|
+| 401(k)         | Up to matched amount| High                        |
+| IRA            | Full allowed amount | Medium                      |
+| Taxable        | Remainder           | Low to Medium depending on goals|
+
+### Action Steps:
+- **Determine your contribution limits** and ensure you’re taking full advantage of tax-advantaged accounts.
+- **Consult with a financial advisor** for personalized strategies that align with your specific financial situation.
+
+This structured approach should help you effectively distribute your investments! If you have specific numbers or contexts, feel free to share for tailored advice. 📊

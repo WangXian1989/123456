@@ -1,0 +1,14 @@
+**article1.title**  
+This article discusses the effectiveness of engaging young voters through social media and digital campaigns, highlighting that tailored messages that resonate with their values are critical for mobilizing this demographic.  
+[article1.citation](https://pubmed.ncbi.nlm.nih.gov/example1)  
+**Relevant Score**: 0.85
+
+**article2.title**  
+The conclusion emphasizes the significance of peer influence and grassroots movements in motivating young voters to participate in elections, suggesting that personal connections and community involvement increase turnout rates.  
+[article2.citation](https://pubmed.ncbi.nlm.nih.gov/example2)  
+**Relevant Score**: 0.80
+
+**article3.title**  
+This study finds that addressing specific issues of concern to young voters, such as climate change and education, can lead to higher engagement and participation in voting, showing the importance of issue-focused campaigns.  
+[article3.citation](https://pubmed.ncbi.nlm.nih.gov/example3)  
+**Relevant Score**: 0.75

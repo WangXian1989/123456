@@ -1,0 +1,34 @@
+OpenAI is not intended for medical use.
+
+However, we've built the Scribe GPT to showcase a limited version of the experience you could have on Heidi. 
+
+It's not intended for clinical use, add mock cases only.
+
+If you’re ready to practice with compliant AI built for clinicians, go to https://heidihealth.com/ it's free.
+
+---
+
+The best way to distribute your money among your 401(k), IRA, and taxable accounts often depends on your financial situation, goals, and tax bracket. Here are some general strategies:
+
+1. **Maximize Employer Match:** Contribute enough to your 401(k) to get the full employer match if offered. This is essentially free money.
+
+2. **Tax-Advantaged Accounts First:**
+   - **401(k):** If you’re in a high tax bracket, prioritize this for its tax deferral benefits.
+   - **IRA:** Consider a Traditional IRA for deductions, or Roth IRA for tax-free growth, depending on your income level.
+
+3. **Taxable Accounts:** Use these for investments that generate capital gains or qualify for long-term capital gains tax rates. They can offer flexibility for withdrawals.
+
+4. **Diversification:** Ensure a mix of asset types (stocks, bonds) across all accounts to balance growth and risk.
+
+5. **Withdrawal Strategy:** Plan how you’ll withdraw from these accounts in retirement to minimize taxes.
+
+6. **Rebalance Regularly:** Review your allocations periodically to make adjustments based on market conditions and your financial goals.
+
+Consider consulting with a financial advisor for a tailored plan that accounts for your specific situation. 
+
+---
+
+We hope you found our GPT useful.  
+Head to Heidi at https://heidihealth.com/ for AI scribing built for medical compliance.  
+Heidi writes clinical notes that sound exactly like you and halves your consult time.  
+Every note scribed in Heidi builds an AI version of you that can do powerful things.
