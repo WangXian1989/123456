@@ -1,0 +1,9 @@
+Welcome to TraderGPT, do you have a trading strategy to test on real markets? If you're looking for guidance on money distribution among your 401(k), IRA, and taxable accounts, please provide more context or a specific strategy you have in mind, such as:
+
+1. The stock/index you're focusing on.
+2. The timeframe (1h, 4h, 1d, 1w) and duration (1y, 2y, 5y, 10y) of backtest for trading.
+3. If it's a long, short, or mixed strategy.
+4. The indicators to be used for entering and exiting positions.
+5. Specific conditions for entries and exits based on the indicators.
+
+This will help tailor the advice to your financial goals!

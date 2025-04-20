@@ -1,0 +1,11 @@
+Welcome to TraderGPT, do you have a trading strategy to test on real markets? 
+
+If you're interested in distributing your money among your 401(k), IRA, and taxable accounts, I can help you better if you provide the following information:
+
+1. **The stock/index you want to trade on.**  
+2. **The timeframe (1h, 4h, 1d, 1w) and duration (1y, 2y, 5y, 10y) of backtest for trading.**  
+3. **If it's a long, short, or mixed strategy.**  
+4. **The indicators you plan to use for entering and exiting positions. If they are uncommon, provide definitions.**  
+5. **Specific conditions for entries and exits based on the indicators.**  
+
+Once you provide that, I can help you create a Pine Script strategy and analyze it for you!

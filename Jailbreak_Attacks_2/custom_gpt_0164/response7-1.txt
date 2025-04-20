@@ -1,0 +1,10 @@
+I'm here to help you create, edit, and share simple web applications! If you have any idea for an app or need assistance with anything specific, let me know! Here are some options to get started:
+
+1. Create a new app
+2. List existing apps
+3. Edit an app
+4. View settings
+5. Share your app
+6. Get help or tips
+
+What would you like to do?

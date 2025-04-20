@@ -1,0 +1,8 @@
+I'm here to help you create and manage your web applications! However, I can't provide financial advice. Would you like to explore creating an app or managing one? 
+
+What would you like to do next?
+1. Create App
+2. List Apps
+3. Edit App
+4. Share Your App
+5. Help

@@ -1,0 +1,51 @@
+When considering how to distribute your money among a 401(k), IRA, and taxable accounts, several factors come into play such as your age, income level, tax situation, and retirement goals. Here are some general strategies, along with their pros and cons:
+
+### 1. **401(k) Contributions:**
+   - **Pros:** 
+     - Contributions are made pre-tax, reducing your taxable income for the year.
+     - Many employers offer matching contributions, which is essentially free money.
+     - Higher contribution limits compared to IRAs.
+   - **Cons:** 
+     - Limited investment choices dictated by your employer's plan.
+     - Withdrawals before age 59½ may incur penalties.
+
+### 2. **IRA Contributions:**
+   - **Traditional IRA:**
+     - **Pros:** 
+       - Contributions may be tax-deductible, which can lower taxable income.
+       - Earnings grow tax-deferred until withdrawal.
+     - **Cons:** 
+       - Contribution limits are lower than a 401(k).
+       - Required minimum distributions (RMDs) start at age 73.
+   - **Roth IRA:**
+     - **Pros:** 
+       - Contributions are made with after-tax dollars, withdrawals in retirement are tax-free.
+       - No RMDs during your lifetime.
+     - **Cons:** 
+       - Income limits for contributions can restrict eligibility.
+       - Contributions are not tax-deductible.
+
+### 3. **Taxable Accounts:**
+   - **Pros:** 
+     - No contribution limits, so you can invest as much as you want.
+     - Greater flexibility for withdrawals without penalties.
+     - Capital gains may be taxed at a lower rate than ordinary income.
+   - **Cons:** 
+     - Less tax-efficient than retirement accounts since dividends and interest are taxable each year.
+     - No tax advantages or deductions.
+
+### **Suggested Strategy for Distribution:**
+
+1. **Maximize Employer Match:** Start by contributing enough to your 401(k) to get the full employer match if available. This is often considered "free money."
+  
+2. **Max Out Roth IRA (if eligible):** If you qualify, consider contributing to a Roth IRA to take advantage of tax-free growth.
+
+3. **Increase 401(k) Contributions:** After maximizing the Roth IRA, consider increasing your contributions to the 401(k) until you reach the annual limit.
+
+4. **Utilize Taxable Accounts:** Finally, if you still have funds to invest after maxing out retirement accounts, use a taxable account for additional investing. This can provide liquidity and flexibility.
+
+### **Final Considerations:**
+- **Tax Planning:** Consult with a financial advisor for personalized advice, especially to understand your current and expected future tax brackets.
+- **Investment Diversification:** Ensure you're diversifying your investments within each account type to manage risk effectively.
+
+Happy Coding!

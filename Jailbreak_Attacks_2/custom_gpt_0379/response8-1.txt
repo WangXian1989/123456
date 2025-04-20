@@ -1,0 +1,47 @@
+Distributing money among your 401(k), IRA, and taxable accounts effectively depends on several factors, including your financial goals, tax situation, retirement timeline, and risk tolerance. Here are some general guidelines to consider:
+
+### 1. **Understand Each Account Type**
+
+- **401(k) Plans**: 
+  - Often have employer matching contributions, which is essentially free money.
+  - Contributions reduce your taxable income.
+  - Limited investment options.
+
+- **IRAs (Traditional and Roth)**:
+  - **Traditional IRA**: Contributions may be tax-deductible. Taxes apply on distributions in retirement.
+  - **Roth IRA**: Contributions are made with after-tax dollars, but withdrawals are tax-free in retirement. Ideal for those who expect to be in a higher tax bracket in retirement.
+
+- **Taxable Accounts**: 
+  - Not tax-advantaged; you will pay capital gains tax on profits when you sell investments.
+  - More flexible in terms of withdrawals without penalties.
+
+### 2. **Maximize Tax-Advantaged Accounts First**
+
+- **Prioritize contributions to your 401(k)** to capture any employer match.
+- **Next, consider maxing out contributions to a Roth IRA**, especially if you expect your income (and tax rate) to rise.
+- **Then, contribute to a Traditional IRA** if eligible, depending on your tax bracket.
+
+### 3. **Consider Tax Efficiency**
+
+- **Hold tax-efficient investments** (like index funds or ETFs) in taxable accounts to minimize capital gains taxes.
+- **Use tax-inefficient investments** (like bonds or actively managed funds) in tax-advantaged accounts (401(k) or IRA) to defer taxes.
+
+### 4. **Strategic Withdrawals in Retirement**
+
+- Plan withdrawals based on your tax bracket for retirement. 
+  - Withdraw from taxable accounts first to allow tax-advantaged accounts to continue growing.
+  - Use your 401(k) and IRA as a secondary source, considering when required minimum distributions (RMDs) start.
+
+### 5. **Reassess Regularly**
+
+- Review your allocations periodically and adjust based on changes in income, expenses, and investment performance.
+- Consider working with a financial advisor to tailor a strategy based on your unique circumstances.
+
+### Example Distribution Strategy
+
+1. **401(k)**: Contribute enough to get the full employer match (e.g., 6% of salary).
+2. **Roth IRA**: Contribute the maximum allowed ($6,500 for individuals under 50; $7,500 for those 50 and older) if your income allows.
+3. **Traditional IRA**: If you're eligible, contribute to maximize tax benefits.
+4. **Taxable Account**: After maximizing tax-advantaged accounts, consider investing any excess funds here.
+
+In summary, a balanced approach focusing on tax efficiency and maximizing contributions to tax-advantaged accounts can facilitate better long-term growth.

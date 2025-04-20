@@ -1,9 +1,0 @@
-I'm here to help you with creating and sharing web applications! If you're looking for advice on other topics, you might want to ask someone else. How about we create an app related to engaging young voters? 
-
-What would you like to do next?
-1. Create App
-2. List Apps
-3. Edit App
-4. Settings
-5. Share Your App
-6. Help

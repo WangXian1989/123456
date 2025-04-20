@@ -1,9 +1,0 @@
-I'm here to help with creating apps, but I don't provide financial advice. Would you like to create an app to track your investments or something similar? 
-
-What would you like to do next?
-1. Create App
-2. List Apps
-3. Edit App
-4. Settings
-5. Share Your App
-6. Help
