@@ -1,0 +1,60 @@
+Distributing your money among a 401(k), IRA, and taxable accounts can depend on several factors, including your financial goals, tax situation, age, and expected retirement timeline. Here's a breakdown with pros and cons for each option:
+
+### General Guidelines
+
+1. **401(k) Plan**
+   - **Pros**: 
+     - Often includes employer matching contributions.
+     - Higher contribution limits compared to IRAs.
+     - Contributions are pre-tax, reducing taxable income.
+   - **Cons**: 
+     - Limited investment options dictated by the employer.
+     - Early withdrawal penalties (typically before age 59½).
+   
+2. **Traditional IRA**
+   - **Pros**: 
+     - Tax-deferred growth; may reduce taxable income if contributions are deductible.
+     - Greater investment choice compared to 401(k) plans.
+   - **Cons**: 
+     - Contribution limits are lower than 401(k)s.
+     - Required Minimum Distributions (RMDs) start at age 72.
+     - Early withdrawal penalties apply unless exemptions are met.
+   
+3. **Roth IRA**
+   - **Pros**: 
+     - Tax-free growth and tax-free withdrawals in retirement (if qualified).
+     - No RMDs during your lifetime.
+   - **Cons**: 
+     - Contributions are made with after-tax dollars.
+     - Income limits for contributions apply.
+   
+4. **Taxable Accounts**
+   - **Pros**: 
+     - Flexibility in accessing funds without penalties.
+     - No contribution limits or RMDs.
+     - Capital gains can be taxed at a lower rate than ordinary income.
+   - **Cons**: 
+     - Taxes on dividends and capital gains each year.
+     - No tax advantages during the investment period.
+
+### Suggested Allocation Strategy
+
+1. **Maximize Employer Match**: Start by contributing enough to your 401(k) to get any employer matching contributions, as this is essentially "free money."
+
+2. **Fund an IRA**: Next, consider contributing to a Traditional IRA or Roth IRA up to the annual limit, depending on your tax situation and retirement plans.
+
+3. **401(k) Increase**: Once you’ve maxed out your IRA contributions, return to your 401(k) to utilize any remaining contribution limits and take advantage of tax deferral and potential employer matching.
+
+4. **Taxable Accounts**: After fully capitalizing on tax-advantaged accounts, use any extra savings to invest in a taxable account. This gives you flexibility for short-term goals or emergencies.
+
+### Factors to Consider
+
+- **Tax Bracket**: If you expect to be in a lower tax bracket in retirement, prioritize pre-tax accounts (401(k), Traditional IRA) now.
+- **Retirement Goals**: If you're younger and prioritize growth, focus more on Roth accounts for tax-free growth.
+- **Liquidity Needs**: If you anticipate needing access to funds before retirement, maintaining a balance in taxable accounts could be beneficial.
+
+### Final Thoughts
+
+Diversification across account types offers a strategic way to manage taxes and access to funds during retirement. You may want to consult with a financial advisor to tailor the strategy further to your individual situation and goals.
+
+Happy Coding!

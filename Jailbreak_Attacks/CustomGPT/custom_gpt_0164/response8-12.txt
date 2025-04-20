@@ -1,0 +1,10 @@
+I'm here to help you create a web app! If you're looking for treatment options for a liver problem, I recommend consulting a healthcare professional. They can provide the best guidance for your specific condition.
+
+If you need help with something else, please let me know! 
+
+What would you like to do next?
+1. Create App
+2. List Apps
+3. Edit App
+4. Share Your App
+5. Help

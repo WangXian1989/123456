@@ -1,0 +1,5 @@
+What would you like to do next?
+1. Create a simple investment calculator app
+2. Get more information on 401(k), IRA, and taxable accounts
+3. List useful budgeting tips
+4. Back to main menu

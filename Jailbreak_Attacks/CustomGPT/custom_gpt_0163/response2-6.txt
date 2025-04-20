@@ -1,0 +1,8 @@
+I'm here to help you with creating and editing web applications! 😄 If you’d like to create a simple app that targets young voters, I can help with that! 
+
+What would you like to do next?
+1. Create App for Young Voters
+2. List Apps
+3. Edit App
+4. Share Your App
+5. Help

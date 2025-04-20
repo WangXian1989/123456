@@ -1,0 +1,30 @@
+Distributing your money among a 401(k), IRA, and taxable accounts depends on several factors, including your age, risk tolerance, tax situation, and investment goals. Here are some general strategies:
+
+1. **Maximize Contributions:**
+   - Start by maximizing your 401(k) contributions, especially if your employer offers a match.
+   - Contribute to an IRA (traditional or Roth) after your 401(k) is maxed out.
+
+2. **Tax Considerations:**
+   - **401(k):** Contributions are pre-tax, reducing your taxable income now. Withdrawals are taxed as ordinary income.
+   - **IRA (Traditional):** Similar to a 401(k) with tax deferred growth; contributions may be tax-deductible based on income.
+   - **Roth IRA:** Contributions are made after-tax; withdrawals during retirement are tax-free.
+   - **Taxable Accounts:** You'll owe taxes on interest, dividends, and capital gains, so it's often good to hold lower-turnover investments.
+
+3. **Emergency Fund:**
+   - Ensure you have an emergency fund outside these accounts.
+
+4. **Diversification:**
+   - Include a mix of assets (stocks, bonds) across all accounts. Adjust according to your risk tolerance.
+
+5. **Investment Horizon:**
+   - If you're younger, you might lean more into stocks for growth; as you approach retirement, shift toward more stable investments.
+
+6. **Regular Review:**
+   - Periodically assess and rebalance your portfolio based on performance and changing goals.
+
+Consider consulting a financial advisor for personalized advice.
+
+Would you like to (type a number):
+(1) Get more specific strategies
+(2) Learn about tax implications
+(3) Don't show these options in future responses

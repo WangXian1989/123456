@@ -1,0 +1,21 @@
+Distributing your money among a 401(k), IRA, and taxable accounts depends on various factors like tax considerations, investment goals, and liquidity needs. Here’s a general strategy:
+
+1. **Maximize Tax-Advantaged Accounts First**:
+   - **401(k)**: Contribute enough to get any employer match.
+   - **IRA**: Max out contributions if you qualify for deductions.
+
+2. **Consider Tax Efficiency**:
+   - **Taxable Accounts**: Use for investments with lower capital gains, such as index funds or ETFs.
+
+3. **Diversification**:
+   - Spread investments across asset classes (stocks, bonds, etc.) in all accounts.
+
+4. **Withdrawal Strategy**:
+   - Plan which accounts to draw from in retirement for tax efficiency.
+
+If you want to explore specific strategies or situations, just let me know!
+
+**Would you like to (type a number):**
+(1) It didn't work, try something else  
+(2) Explain how this solution works  
+(3) Don't show these options in the future  

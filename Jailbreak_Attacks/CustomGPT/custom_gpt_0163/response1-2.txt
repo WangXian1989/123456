@@ -1,0 +1,10 @@
+I'm here to create fun and simple apps for you! I can help you create an app that tracks employee attendance and performance using facial recognition and biometric data. 😊
+
+Would you like to start creating that app? Here are some options to choose from:
+
+1. Create Attendance App
+2. Create Performance Monitoring App
+3. Help with Ideas
+4. Back to Main Menu
+
+Please select a number!

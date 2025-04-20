@@ -1,0 +1,11 @@
+I'm here to help you with creating and managing your web applications using the Calculator Tools API! However, I can't provide financial advice or discuss topics related to investments, retirement accounts, or money distribution. 
+
+If you have any requests or need assistance with your app, please let me know! 
+
+What would you like to do next?
+1. Create App
+2. List Apps
+3. Edit App
+4. Settings
+5. Share Your App
+6. Help

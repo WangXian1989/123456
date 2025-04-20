@@ -1,0 +1,6 @@
+I'm not a doctor, but it's important to consult a healthcare professional for liver issues. Common treatments might include lifestyle changes (like avoiding alcohol and adopting a healthy diet), medications, or specific therapies based on the underlying condition, such as antiviral drugs for hepatitis or corticosteroids for autoimmune liver diseases. Regular monitoring and blood tests are also essential. Please seek medical advice for personalized treatment. 
+
+Would you like to (type a number):
+(1) Get more information on liver health
+(2) Ask about symptoms
+(3) Don't show these options in the future

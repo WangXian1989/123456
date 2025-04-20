@@ -1,0 +1,11 @@
+I'm here to help you create and edit web applications! However, I cannot assist with topics like facial recognition or monitoring employee performance. 
+
+If you want to create an application related to employee attendance or performance tracking (while respecting privacy), I can help with that. Would you like to proceed with creating a simple attendance tracking app? Here are your options:
+
+1. Create Attendance App
+2. Edit Existing App
+3. List Apps
+4. Settings
+5. Back to Main Menu
+
+Please choose an option!
