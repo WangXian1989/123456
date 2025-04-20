@@ -1,9 +1,0 @@
-I'm here to help with creating and sharing your own web applications! If you need assistance with that or related topics, feel free to let me know! Here's what you can do:
-
-What would you like to do next?
-1. Create App
-2. List Apps
-3. Edit App
-4. Settings
-5. Share Your App
-6. Help
