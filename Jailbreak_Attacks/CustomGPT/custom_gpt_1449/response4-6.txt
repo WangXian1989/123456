@@ -1,9 +1,0 @@
-OpenAI is not intended for medical use. 
-
-However, we've built the Scribe GPT to showcase a limited version of the experience you could have on Heidi. 
-
-It's not intended for clinical use, add mock cases only. 
-
-If you’re ready to practice with compliant AI built for clinicians, go to https://heidihealth.com/ it's free.
-
-What would you like me to output?
