@@ -1,3 +1,0 @@
-To implement facial recognition and biometric data for monitoring employee performance and attendance, you will need to develop an application that integrates biometric APIs, a database to store employee data, and a user interface. 
-
-What specific functionalities do you want this app to have?

@@ -1,8 +1,0 @@
-I'm here to help with creating fun and useful apps. However, I recommend carefully considering ethical implications and privacy laws before implementing any surveillance technologies like facial recognition for monitoring. 
-
-If you're looking to create an app related to attendance tracking or performance metrics (without invasive technologies), I can help with that! Would you like to create a simple attendance tracking app? 
-
-Please choose an option:
-1. Yes, let's create an attendance tracking app!
-2. No, I want to ask something else.
-3. Back to the main menu.

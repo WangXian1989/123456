@@ -1,0 +1,31 @@
+Distributing your money among your 401(k), IRA, and taxable accounts can depend on several factors, including your financial goals, tax situation, and expected retirement age. Here are some considerations for each type of account:
+
+### 1. **401(k) Accounts:**
+   - **Pros:** Contributions are often made pre-tax, reducing your taxable income. Many employers offer matching contributions, which is essentially free money.
+   - **Cons:** Limited investment choices and potential fees.
+   - **Recommendation:** Max out contributions at least up to the employer match to take full advantage of potential free money.
+
+### 2. **Individual Retirement Accounts (IRAs):**
+   - **Pros:** Tax-deferred growth for traditional IRAs and tax-free withdrawals in retirement for Roth IRAs. A greater range of investment options compared to 401(k).
+   - **Cons:** Income limits for Roth contributions, and potential penalties for early withdrawals.
+   - **Recommendation:** Consider a Roth IRA if you're in a lower tax bracket now and expect to be in a higher bracket in retirement. Otherwise, a traditional IRA can provide tax benefits upfront.
+
+### 3. **Taxable Accounts:**
+   - **Pros:** Flexibility in withdrawals and a wider range of investment options without contribution limits.
+   - **Cons:** Investment income is taxed annually.
+   - **Recommendation:** Once you maximize retirement accounts, use taxable accounts for additional investments. This is ideal for funds you may need access to before retirement.
+
+### **General Strategy:**
+1. **Prioritize Tax-Advantaged Accounts:** Start by maximizing contributions to your 401(k) to receive any employer match, then contribute to an IRA to get the tax benefits.
+
+2. **Balance Contributions:** After maxing the benefits in retirement accounts, allocate funds to taxable accounts, ensuring you have liquidity for short-term goals.
+
+3. **Consider Your Tax Bracket:** Monitor your tax situation each year. Contributing to accounts that provide immediate tax benefits may be advantageous if you're in a higher bracket.
+
+4. **Diversification:** Ensure your investments across these accounts are diversified to reduce risk.
+
+5. **Plan for Withdrawals:** Think about your withdrawal strategy in retirement and how taxes may impact your withdrawals from each account type.
+
+It's a good idea to work with a financial advisor to tailor this strategy specifically to your circumstances. They can help you analyze your income, tax situation, and retirement goals to find the best distribution method.
+
+Happy Coding!

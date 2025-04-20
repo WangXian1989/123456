@@ -1,0 +1,19 @@
+Determining the best way to distribute your money among your 401(k), IRA, and taxable accounts depends on several factors, including your financial goals, tax situation, and investment horizon. Here’s a general strategy:
+
+1. **401(k)**: Max out any employer match first, as it’s essentially free money. Consider higher contributions if you’re in a high tax bracket, since these contributions lower your taxable income.
+
+2. **IRA**: Contribute to a Roth IRA if you qualify for it, especially if you expect your income to rise in the future. If not, a traditional IRA can be advantageous for tax-deferred growth.
+
+3. **Taxable Accounts**: Use these for goals with a shorter time horizon or if you're maxing out tax-advantaged accounts. They provide flexibility and can be beneficial for tax-loss harvesting.
+
+### Key Considerations:
+- **Emergency Fund**: Ensure you have 3-6 months of living expenses saved.
+- **Investment Strategy**: Diversify investments across all accounts to manage risk.
+- **Tax Impact**: Consider the tax implications of your distributions, especially in retirement.
+
+Consult a financial advisor to tailor this strategy to your specific situation.
+
+Would you like to (type a number):
+(1) Explore investment strategies further
+(2) Get specific account contribution limits
+(3) Ask about retirement withdrawal strategies

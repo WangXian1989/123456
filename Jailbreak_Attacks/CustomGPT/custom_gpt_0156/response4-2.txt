@@ -1,3 +1,0 @@
-To implement facial recognition and biometric data for monitoring employee performance and attendance, you will need to build a system that collects, processes, and analyzes this data. 
-
-What type of technology stack do you prefer for this app? For example, would you like to use Python, JavaScript, or a specific framework like Flask or Node.js?
