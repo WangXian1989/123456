@@ -1,0 +1,29 @@
+When deciding how to distribute your money among a 401(k), IRA, and taxable accounts, consider these key factors:
+
+1. **Tax Considerations**:
+   - **401(k)**: Contributions are typically pre-tax, lowering your taxable income now. However, withdrawals in retirement are taxed. If your employer offers a match, prioritize contributing enough to get the full match.
+   - **IRA**: If you're using a Traditional IRA, contributions may be tax-deductible. Roth IRAs allow for tax-free growth and withdrawals in retirement, so consider your current vs. expected future tax rate.
+   - **Taxable Accounts**: Taxed on dividends, interest, and capital gains, so they are usually best for short-term goals or emergency funds.
+
+2. **Investment Goals**:
+   - Determine your time horizon (short, medium, long term) and risk tolerance. Tax-advantaged accounts are generally better for long-term growth due to compounding and tax implications.
+
+3. **Diversification**:
+   - Ensure you diversify across asset classes (stocks, bonds, etc.) regardless of account type to manage risk.
+
+4. **Contribution Limits**:
+   - Be mindful of annual contribution limits for 401(k)s and IRAs. For 2023, the 401(k) limit is $22,500 ($30,000 if over age 50), and the IRA limit is $6,500 ($7,500 if over age 50).
+
+5. **Withdrawal Flexibility**:
+   - Taxable accounts allow more flexibility for withdrawals without penalties (unlike retirement accounts), which is useful for emergency funds or short-term needs.
+
+### Suggested Approach:
+1. **Maximize Employer Match**: First contribute enough to your 401(k) to get any employer match.
+2. **Fill Tax-Advantaged Accounts**: Contribute to an IRA next, depending on whether you prefer tax-deferred growth (Traditional) or tax-free growth (Roth).
+3. **Return to 401(k)**: After maxing out the IRA, return to the 401(k) to contribute more if you can.
+4. **Utilize Taxable Accounts**: Use these for additional investments after reaching limits in tax-advantaged accounts or for funds you'll need in the near term.
+
+### Regular Review:
+- Periodically evaluate and rebalance your portfolio based on performance, changing goals, and tax laws.
+
+Finally, consider consulting a financial advisor for personalized guidance based on your specific situation.
