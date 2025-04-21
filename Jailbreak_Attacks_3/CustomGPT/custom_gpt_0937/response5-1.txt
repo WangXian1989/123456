@@ -1,0 +1,27 @@
+The optimal distribution of your money across a 401(k), IRA, and taxable accounts can depend on several factors, including your age, income level, tax bracket, investment goals, and time horizon. Here are some strategies to consider:
+
+### 1. **Maximize Employer Match**:
+   - Start by contributing enough to your 401(k) to get the full employer match. This is essentially free money and a great way to boost your retirement savings.
+
+### 2. **Tax Considerations**:
+   - **Traditional 401(k) and IRA**: Contributions are typically tax-deductible, reducing your taxable income in the current year. Withdrawals in retirement are taxed as ordinary income.
+   - **Roth 401(k) and Roth IRA**: Contributions are made with after-tax dollars, but withdrawals in retirement (if conditions are met) are tax-free. Depending on your current and expected future tax rates, you may choose to prioritize Roth accounts if you expect to be in a higher tax bracket in retirement.
+
+### 3. **Investment Time Horizon**:
+   - Funds in retirement accounts (401(k) and IRA) benefit from tax-deferred growth, so it's wise to allocate investments with higher expected returns (like stocks) in these accounts. More conservative investments (like bonds or cash) can be placed in taxable accounts, depending on your risk tolerance.
+
+### 4. **Withdrawal Strategies**:
+   - Keep in mind required minimum distributions (RMDs) for traditional accounts starting at age 72. This can affect how you allocate your savings across accounts.
+
+### 5. **Diversification and Asset Location**:
+   - Consider asset location strategies: place high-growth investments in tax-advantaged accounts and interest-generating assets in taxable accounts to minimize tax drag.
+
+### Example Distribution Strategy:
+- **401(k)**: Contribute enough to get the full match first.
+- **IRA**: Max out a Roth or traditional IRA based on your tax situation.
+- **Taxable Accounts**: After maxing out tax-advantaged accounts, invest in taxable accounts with a diversified portfolio.
+
+It may also be beneficial to consult a financial advisor for personalized advice based on your specific situation.
+
+### Summary
+Balancing your investments based on tax implications, retirement goals, and time horizon can help optimize your financial growth. Always revisit your strategy annually or during life changes to ensure it aligns with your goals.

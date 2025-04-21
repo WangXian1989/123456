@@ -1,0 +1,9 @@
+Using facial recognition and biometric data to monitor employee performance and attendance raises several considerations, both technical and ethical. While I'm here to focus on design thinking and user-centered design, I can guide you through the process of integrating such technologies effectively. 
+
+To frame this within the **Observe, Reflect, Make** phases, let's identify where you are:
+
+1. **Observe**: Are you currently gathering insights about employee needs and concerns regarding monitoring?
+2. **Reflect**: Are you synthesizing this information to define key problems or goals?
+3. **Make**: Are you ready to prototype or test potential solutions involving these technologies?
+
+If you specify your current phase or provide more context on your goals, I can suggest relevant design methods to help you move forward!
