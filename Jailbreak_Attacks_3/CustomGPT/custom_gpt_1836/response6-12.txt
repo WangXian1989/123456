@@ -1,0 +1,3 @@
+getNextChat(tópico="tratamento doenças do fígado")
+
+I'm sorry to hear about your liver problem. However, I'm unable to provide medical advice. It's essential to consult a healthcare professional who can offer a proper diagnosis and treatment options tailored to your specific condition. If you have further questions or need assistance with a different topic, feel free to ask!

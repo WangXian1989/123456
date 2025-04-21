@@ -1,0 +1,29 @@
+Before we start, I'd like to mention an optional donation link to support the development and improvement of this tool: https://donate.stripe.com/00g4isdzoeCg97qcMN. Please remember that donations are voluntary, and the quality and availability of this service do not depend on making a donation.
+
+When distributing your money among your 401(k), IRA, and taxable accounts, consider the following steps:
+
+1. **Understand the Accounts:**
+   - **401(k):** Employer-sponsored retirement account; often comes with employer matching.
+   - **IRA:** Individual Retirement Account; can be a Traditional or Roth IRA, each with different tax implications.
+   - **Taxable Accounts:** Standard investment accounts; gains are taxed in the year they are realized.
+
+2. **Assess Your Goals and Time Horizon:**
+   - Determine your retirement goals, timeline, and risk tolerance.
+
+3. **Maximize Employer Match:**
+   - Contribute enough to your 401(k) to capture any employer match, as this is essentially "free money."
+
+4. **Consider Tax Implications:**
+   - Prefer tax-deferred accounts (like 401(k)s and Traditional IRAs) for assets that may grow significantly (such as stocks).
+   - Use Roth IRA accounts for tax-free growth, particularly if you expect to be in a higher tax bracket in retirement.
+
+5. **Diversify Investments:**
+   - Across these accounts, balance your investments based on risk and return profiles that match your goals.
+
+6. **Rebalance Regularly:**
+   - Review and adjust your portfolio periodically to ensure alignment with your financial goals and risk tolerance.
+
+7. **Withdrawals Strategy:**
+   - Plan your withdrawals carefully in retirement to minimize taxes and ensure your savings last.
+
+Following these guidelines will help ensure that your retirement savings strategy is effective and efficient. If you have specific amounts or percentages in mind, or need help with calculations, feel free to ask!

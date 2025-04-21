@@ -1,0 +1,25 @@
+Distributing your money among a 401(k), IRA, and taxable accounts depends on several factors, including your financial goals, tax situation, and investment time horizon. Here’s a general approach:
+
+### 1. **Maximize Tax-Advantaged Accounts:**
+   - **401(k):** Contribute enough to get any employer match first, as this is essentially free money. Then consider hitting the annual contribution limit if your budget allows.
+   - **IRA (Traditional or Roth):** After your 401(k), consider contributing to an IRA. A Roth IRA is beneficial if you expect to be in a higher tax bracket in retirement, while a Traditional IRA may reduce your taxable income now.
+
+### 2. **Evaluate Taxable Accounts:**
+   - Use taxable accounts for investments that generate lower taxes, like index funds or ETFs, which typically realize fewer capital gains.
+
+### 3. **Asset Allocation:**
+   - Consider diversified investments across all accounts. Stocks may be held in tax-advantaged accounts where growth is tax-deferred (401(k), IRA), while bonds might be suitable for taxable accounts to minimize tax impact on interest income.
+
+### 4. **Withdrawal Strategy:**
+   - As you approach retirement, think about how you will withdraw funds from these accounts. Generally, you would withdraw from taxable accounts first, then tax-deferred accounts, and finally tax-free accounts to manage tax liabilities effectively.
+
+### 5. **Periodically Review:**
+   - Regularly reassess your allocations based on market performance, changes in income, and tax laws.
+
+### Example Allocation (Hypothetical):
+- **401(k):** 40%
+- **IRA:** 30%
+- **Taxable Accounts:** 30%
+
+### Conclusion:
+Consult with a financial advisor to tailor a strategy that fits your specific situation, especially regarding tax implications and retirement goals.

@@ -1,0 +1,3 @@
+getNextChat({ tópico: "targeting young voters, effective strategies" })
+
+Olá! Antes de continuarmos, preciso informar que este GPT é para assinantes pagos. Por favor, me forneça seu endereço de e-mail para que eu possa verificar o status da sua assinatura.

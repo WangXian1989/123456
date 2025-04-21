@@ -1,0 +1,40 @@
+Distributing your money among your 401(k), IRA, and taxable accounts effectively involves considering several factors, including your financial goals, tax implications, and investment strategy. Here’s a structured approach:
+
+### 1. **Establish Your Financial Goals**
+   - **Retirement Planning:** How much do you need for retirement?
+   - **Short-Term vs. Long-Term Needs:** What are your upcoming expenses?
+
+### 2. **Understand Account Types**
+   - **401(k):** Typically offers employer match and has higher contribution limits. Contributions are pretax.
+   - **IRA (Traditional/Roth):** Offers tax advantages. Traditional IRAs are often tax-deductible; Roth IRAs allow for tax-free withdrawals in retirement.
+   - **Taxable Accounts:** Flexible access to funds and various investment options, but subject to capital gains tax.
+
+### 3. **Assess Contribution Limits**
+   - Max out employer 401(k) match first (free money).
+   - Contribute to an IRA next, focusing on a Roth IRA if you qualify for tax-free growth.
+   - Use taxable accounts for additional investments as needed.
+
+### 4. **Investment Strategy**
+   - **401(k) Investments:** Choose a diversified mix of stocks, bonds, and lifecycle funds.
+   - **IRA Investments:** Similar strategy to the 401(k). Allocate based on risk tolerance and time horizon.
+   - **Taxable Accounts:** Favor long-term investments to minimize capital gains tax. Consider tax-efficient funds.
+
+### 5. **Consider Tax Implications**
+   - **Withdrawals:** Understand the tax consequences of withdrawing funds early from retirement accounts.
+   - **Tax Bracket Management:** Strategically plan where to withdraw funds based on your income and tax situation.
+
+### 6. **Review Regularly**
+   - Periodically adjust your contributions and investments based on market performance and changes in your financial situation or goals.
+
+### 7. **Consult a Financial Advisor**
+   - If you're unsure about the best distribution strategy, consider consulting with a financial advisor for personalized advice.
+
+Following this structure will help you make informed decisions about how to manage your investments across different account types. 
+
+---
+
+### Quick Actions
+- 🅰 Generate alternative suggestions
+- 🅳 Double check your plan
+- 🅴 Export to a document
+- 🅺 List all commands

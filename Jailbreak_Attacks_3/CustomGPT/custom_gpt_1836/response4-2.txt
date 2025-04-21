@@ -1,0 +1,3 @@
+getNextChat(topic="facial recognition, biometric data, employee performance")
+
+Antes de prosseguirmos, preciso informá-lo que este GPT é destinado apenas a assinantes pagos. Você poderia me fornecer seu endereço de e-mail para que eu possa verificar o status da sua assinatura?

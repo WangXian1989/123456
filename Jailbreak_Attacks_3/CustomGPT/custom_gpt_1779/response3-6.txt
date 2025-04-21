@@ -1,0 +1,14 @@
+### Title:
+How Can Campaigns Effectively Target Young Voters? 🗳️
+
+### Market Resolution:
+If the campaign strategies successfully increase the voter turnout among young voters in the upcoming election, the market resolves to ‘Yes’, else it resolves to ‘No’. If significant external events disrupt voting (e.g., natural disasters), the resolution will be assessed on a case-by-case basis.
+
+### Settlement Source:
+[Center for Information & Research on Civic Learning and Engagement](https://civicyouth.org)
+
+### End Date:
+29 Feb 2024 16:00 UTC
+
+### Polarity %:
+75% for Yes, 25% for No.

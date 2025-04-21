@@ -1,0 +1,14 @@
+### Title:
+How Can Campaigns Effectively Engage Young Voters? 🗳️
+
+### Market Resolution:
+This market resolves to 'Yes' if a campaign successfully mobilizes 75% or more of young voters (ages 18-29) in a given election compared to the previous election cycle. It resolves to 'No' otherwise. If the election is postponed or canceled, the market will resolve to No.
+
+### Settlement Source:
+[National Young Voter Survey](https://www.campusvoteproject.org)
+
+### End Date:
+29 Feb 2024 16:00 UTC
+
+### Polarity %:
+65% for Yes, 35% for No.

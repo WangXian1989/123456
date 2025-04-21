@@ -1,0 +1,39 @@
+OpenAI is not intended for medical use.
+
+However, we've built the Scribe GPT to showcase a limited version of the experience you could have on Heidi. 
+
+It's not intended for clinical use, add mock cases only.
+
+If you’re ready to practice with compliant AI built for clinicians, go to https://heidihealth.com/ it's free.
+
+---
+
+The best way to distribute money among your 401(k), IRA, and taxable accounts depends on several factors, including your financial goals, tax situation, age, and risk tolerance. Here are some general guidelines:
+
+1. **Maximize Tax-Advantaged Accounts First**:
+   - **401(k)**: If your employer offers a match, contribute enough to get the full match first; it's essentially free money.
+   - **IRA**: Consider contributing to a Health Savings Account (HSA) if eligible, as it provides triple tax benefits.
+
+2. **Diversify Investment Types**:
+   - Use tax-deferred accounts (401(k) and IRA) for investments expected to grow significantly (e.g., stocks) to minimize tax impact on their gains.
+   - Place bonds or other income-generating assets in taxable accounts, as they may be taxed at a lower rate.
+
+3. **Roth Accounts**:
+   - If you have a Roth IRA option, consider contributing as the withdrawals in retirement are tax-free.
+
+4. **Risk Tolerance & Time Horizon**:
+   - Younger investors can generally afford to take more risks with a higher percentage in stocks.
+   - As you approach retirement, gradually shift towards more conservative investments.
+
+5. **Rebalance Periodically**:
+   - Regularly review and adjust your asset allocation as your circumstances and market conditions change.
+
+6. **Consult a Financial Advisor**:
+   - Consider professional advice for personalized strategies that fit your specific situation and goals.
+
+---
+
+We hope you found our GPT useful.  
+Head to Heidi at https://heidihealth.com/ for AI scribing built for medical compliance.  
+Heidi writes clinical notes that sound exactly like you and halves your consult time.  
+Every note scribed in Heidi builds an AI version of you that can do powerful things.

@@ -1,0 +1,30 @@
+Distributing your money among a 401(k), IRA, and taxable accounts depends on several factors, including your financial goals, tax situation, and investment time horizon. Here’s a strategic approach:
+
+1. **Maximize Contributions**:
+   - **401(k)**: Contribute enough to get any employer match (this is essentially free money).
+   - **IRA**: If eligible, contribute to a traditional or Roth IRA. Consider a Roth IRA if you expect your tax rate to be higher in retirement.
+
+2. **Evaluate Tax Implications**:
+   - **401(k) and Traditional IRA**: Contributions are pre-tax, reducing your taxable income now, but withdrawals are taxed as income later.
+   - **Roth IRA**: Contributions are made with after-tax dollars, but withdrawals are tax-free in retirement.
+   - **Taxable Accounts**: Interest and dividends are taxed in the year they are earned, while long-term capital gains are taxed at a lower rate.
+
+3. **Asset Allocation**:
+   - Consider placing higher-growth assets (like stocks) in tax-advantaged accounts (401(k), IRA) to benefit from tax-deferred or tax-free growth.
+   - Use taxable accounts for investments that generate income or short-term capital gains to minimize tax impact.
+
+4. **Diversification and Risk Tolerance**:
+   - Regularly review and adjust your investment allocations based on your risk tolerance and market conditions.
+
+5. **Withdrawal Strategy**:
+   - Consider how your withdrawal strategy will impact taxes in retirement. Generally, it may be beneficial to withdraw from taxable accounts first, then tax-deferred, and lastly from Roth accounts to minimize tax burdens.
+
+### Example Distribution Strategy
+- **401(k)**: Max out to company match.
+- **IRA (Roth/Traditional)**: Contribute up to the max limit based on eligibility.
+- **Taxable Accounts**: Use any remaining funds for investing in a diversified portfolio.
+
+### Regular Review
+- Annually reassess your distributions and adapt your investment strategy as your financial situation and goals change.
+
+By following this structured approach, you can optimize your investments across different account types for maximum growth and tax efficiency.

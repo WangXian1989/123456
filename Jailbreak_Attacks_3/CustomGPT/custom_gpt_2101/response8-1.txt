@@ -1,0 +1,48 @@
+Distributing your money among a 401(k), IRA, and taxable accounts depends on your financial goals, tax situation, and retirement timeline. Here’s a breakdown of considerations for each type of account:
+
+### 1. **401(k) Accounts**
+   - **Advantages**: Tax-deferred growth, potential employer match, high contribution limits.
+   - **Considerations**:
+     - Maximize any employer match first; it's essentially free money.
+     - Consider using this account for long-term growth investments due to tax deferral.
+
+### 2. **IRA Accounts (Traditional & Roth)**
+   - **Traditional IRA**:
+     - **Advantages**: Tax-deductible contributions and tax-deferred growth.
+     - **Considerations**: Withdrawals are taxed as ordinary income. Suitable for high-income earners expecting to be in a lower tax bracket in retirement.
+   - **Roth IRA**:
+     - **Advantages**: Tax-free withdrawals in retirement and no required minimum distributions (RMDs).
+     - **Considerations**: Ideal if you expect to be in a higher tax bracket in retirement. Contributions are not tax-deductible.
+
+### 3. **Taxable Accounts**
+   - **Advantages**: Flexibility to withdraw money at any time without penalties or RMDs.
+   - **Considerations**:
+     - Best for short-term goals or emergency funds.
+     - Be mindful of capital gains tax on investments sold for a profit.
+     - Consider keeping more conservative investments here to avoid unexpected tax bills.
+
+### **General Strategies**
+1. **Prioritize Contributions**:
+   - Start with employer-matched contributions in your 401(k).
+   - Then, max out your Roth IRA if eligible, due to its tax-free growth potential.
+   - Next, contribute to a Traditional IRA if you need additional tax deductions.
+   - Lastly, use taxable accounts for additional savings and investments.
+
+2. **Asset Location**:
+   - Place high-growth (stocks) in tax-advantaged accounts (401(k), IRA) where you won’t be taxed on short-term capital gains.
+   - Hold more stable investments (bonds) in taxable accounts to manage tax implications more effectively.
+
+3. **Tax Diversification**:
+   - Strive for a mix of taxable, tax-deferred, and tax-free accounts to give yourself flexibility in retirement when it comes to withdrawals and taxes.
+
+### **Final Thoughts**
+- Regularly review and adjust your distribution strategy based on changes in income, tax laws, and financial goals.
+- Consider consulting with a financial advisor for personalized advice.
+
+---
+
+### Quick Actions
+- 🅺 List all commands
+- 🅰 Generate alternative investment tips
+- 🅳 Double check your financial plan
+- 🅴 Export financial tips as a document

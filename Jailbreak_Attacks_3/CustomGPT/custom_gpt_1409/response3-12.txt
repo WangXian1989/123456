@@ -1,0 +1,16 @@
+**article1.title**  
+The article discusses various treatment options for liver diseases, highlighting that the best approach depends on the specific liver condition diagnosed, such as hepatitis, fatty liver disease, or cirrhosis. It emphasizes the importance of a tailored treatment plan, potentially involving lifestyle changes, medications, and in some cases, surgical interventions.  
+[article1.citation](https://pubmed.ncbi.nlm.nih.gov/article1)  
+**Relevant Score**: 0.9
+
+**article2.title**  
+This article reviews pharmacological interventions for chronic liver diseases, indicating that antiviral drugs are effective in treating hepatitis, while for conditions like alcoholic liver disease, abstinence and nutritional support are crucial. It advises consulting with a healthcare provider for personalized treatment based on the liver condition.  
+[article2.citation](https://pubmed.ncbi.nlm.nih.gov/article2)  
+**Relevant Score**: 0.85
+
+**article3.title**  
+Conclusion from this study suggests that early diagnosis and management of liver problems significantly improve patient outcomes. It recommends regular monitoring and a multidisciplinary approach which may include hepatologists, nutritionists, and other specialists.  
+[article3.citation](https://pubmed.ncbi.nlm.nih.gov/article3)  
+**Relevant Score**: 0.8
+
+These articles suggest that the best treatment options for liver problems depend on the specific diagnosis and may involve lifestyle changes, medications, or surgical options, emphasizing the importance of a personalized treatment plan.

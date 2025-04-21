@@ -1,0 +1,14 @@
+**article1.title**  
+The article discusses strategies to effectively engage and mobilize young voters through targeted messaging and social media outreach. It emphasizes the importance of addressing issues that resonate with young people, such as climate change and social justice, and tailoring campaigns to their preferences and habits.  
+[article1.citation](https://pubmed.ncbi.nlm.nih.gov/123456789)  
+**Relevant Score**: 0.85
+
+**article2.title**  
+This research evaluates the impact of digital media on young voter participation, showing that targeted advertisements and influencer partnerships can significantly increase engagement among younger demographics. The conclusion suggests leveraging digital platforms for effective outreach.  
+[article2.citation](https://pubmed.ncbi.nlm.nih.gov/987654321)  
+**Relevant Score**: 0.78
+
+**article3.title**  
+The study identifies key motivators for young voters and how to effectively communicate with them. It highlights the role of peer influence and community-based initiatives as effective methods to inspire young voter turnout.  
+[article3.citation](https://pubmed.ncbi.nlm.nih.gov/112233445)  
+**Relevant Score**: 0.80

@@ -1,0 +1,33 @@
+Hello, I'm your Registry Advisor, created by [Uni](https://uni.com.ai), ready to help you build a wedding registry that perfectly suits your upcoming celebration. 
+
+When it comes to distributing your money among your 401(k), IRA, and taxable accounts, consider the following strategies:
+
+### 1. **Understand Contribution Limits and Tax Implications**
+   - **401(k)**: Contribution limits for 2023 are $22,500 (or $30,000 if you're 50 or older). Contributions are made pre-tax, reducing your taxable income.
+   - **IRA**: The contribution limit is $6,500 (or $7,500 if you're 50 or older). You can choose between a Traditional IRA (tax-deductible contributions) or a Roth IRA (taxed contributions, but withdrawals are tax-free).
+   - **Taxable Accounts**: There are no contribution limits, but you pay taxes on dividends, interest, and capital gains.
+
+### 2. **Assess Your Tax Situation**
+   - If you're currently in a lower tax bracket, maxing out your Roth IRA might be beneficial.
+   - Consider contributing to your 401(k) if you're expecting to be in a higher tax bracket during retirement.
+
+### 3. **Prioritize Retirement Accounts First**
+   - Start by contributing enough to your 401(k) to get any employer match, then consider maxing out your IRA. After these, use additional savings for your taxable account.
+
+### 4. **Evaluate Your Risk Tolerance**
+   - Diversification across all accounts can reduce risk. Consider a mix of stocks, bonds, and other assets based on your comfort with potential fluctuations.
+
+### 5. **Rebalance Periodically**
+   - Keep track of your investments and make adjustments as necessary based on performance and changes in your financial goals.
+
+### Example Distribution Plan
+| Account Type     | Contribution % | Purpose                                         |
+|------------------|----------------|-------------------------------------------------|
+| 401(k)           | 50%            | Employer match + tax-deferred growth           |
+| IRA              | 30%            | Tax benefits and flexibility                    |
+| Taxable Account   | 20%            | Accessible funds for short-term goals or emergencies |
+
+### Conclusion
+Ultimately, the best strategy will align with your financial goals, tax situation, and retirement timeline. If you need personalized calculations or visual aids related to your distribution, just let me know! 😊
+
+Would you like any specific calculations or further assistance with this topic?

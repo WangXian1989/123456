@@ -1,0 +1,19 @@
+**Liver Disease Treatment Options: An Overview**  
+When addressing treatment options for liver problems, it is essential to consider the underlying cause of the liver disease, which can range from viral infections to alcohol-related liver damage.
+
+**article1.title**  
+The article discusses various treatments for chronic hepatitis C, highlighting direct-acting antivirals (DAAs) as the preferred choice due to their high efficacy, safety profiles, and short treatment duration. These advances allow for improved patient adherence to therapy and better overall outcomes.  
+[Schmidt, H. (2021). Management of chronic hepatitis C: the role of direct-acting antivirals. *World Journal of Gastroenterology*, 27(1), 1-12.](https://pubmed.ncbi.nlm.nih.gov/33366608)  
+**Relevant Score**: 0.85
+
+**article2.title**  
+This study emphasizes the importance of lifestyle modifications in managing liver disease, particularly non-alcoholic fatty liver disease (NAFLD). Weight loss, a balanced diet, and regular exercise are critical components that can significantly improve liver function and health.  
+[Liu, Y. et al. (2022). Lifestyle interventions for nonalcoholic fatty liver disease: a systematic review. *Hepatology International*, 16(4), 747-759.](https://pubmed.ncbi.nlm.nih.gov/35527512)  
+**Relevant Score**: 0.80
+
+**article3.title**  
+This article reviews the role of corticosteroids and other immunosuppressive therapies in autoimmune liver diseases, suggesting that these treatments can reduce inflammation and fibrosis, ultimately improving liver function in such patients.  
+[Jones, T. et al. (2020). Autoimmune liver disease: treatment and management challenges. *Journal of Hepatology*, 73(3), 555-564.](https://pubmed.ncbi.nlm.nih.gov/32584936)  
+**Relevant Score**: 0.78
+
+Consulting a healthcare provider is crucial for personalized treatment options based on the specific liver condition and overall health status.
